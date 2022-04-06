@@ -1,6 +1,6 @@
-Hi, I’m Ashraf Moumin Hassan, a student of the french high school: "lycée français de djibouti"
-I’m interested in artificial intelligence
-I’m currently learning machine learning and deep learning
+- Hi, I’m Ashraf Moumin Hassan, a student of the french high school: "lycée français de djibouti"
+- I’m interested in artificial intelligence, physics, mathematics and so much more !
+- I’m currently learning machine learning and deep learning
 
 
 <!---
